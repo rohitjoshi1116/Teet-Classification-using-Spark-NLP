@@ -1,4 +1,4 @@
-# Teet-Classification-using-Spark-NLP
+# Text-Classification-using-Spark-NLP
 #**Customer churn classification using Verizon Tweets**
 
 Problem Statement:
